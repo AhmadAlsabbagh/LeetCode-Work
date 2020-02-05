@@ -1,2 +1,2 @@
 # LeetCode-Work
-A stack of my leetcode solutions.
+A collection of my leetcode solutions.
